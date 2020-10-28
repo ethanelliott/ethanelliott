@@ -9,4 +9,6 @@ Writing code is my art. I love learning and advancing my knowledge to remain at 
 
 If I'm not writing code, I can usually be found cycling, traveling, or playing music on my drums, piano, or ukulele. And of course, drinking coffee. :coffee:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanelliott&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=ethanelliott&show_icons=true&include_all_commits=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanelliott&layout=compact">
