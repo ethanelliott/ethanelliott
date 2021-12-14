@@ -3,6 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/ethanelliott?label=Follow&logo=github&style=for-the-badge)](https://github.com/ethanelliott)
 [![Website](https://img.shields.io/website?down_message=OFFLINE&label=ethanelliott.ca&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fethanelliott.ca)](https://ethanelliott.ca)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K47FY1H)
+
 I'm a hardworking, energetic, and detail-oriented software developer passionate about developing for the future.
 
 Writing code is my art. I love learning and advancing my knowledge to remain at the forefront of software development. I'm always looking for opportunities to learn from others. My goal is to write code that leaves an impression on the user.
